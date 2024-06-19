@@ -42,3 +42,6 @@ The application exposes a set of RESTful APIs for interacting with to-do notes. 
 
 ## Error Handling
 The application ensures robust error handling, providing appropriate error messages and status codes for various scenarios, such as invalid input data, resource not found, and internal server errors.
+
+![Screenshot of the project](Screenshot 2024-06-19 212112.png)
+
